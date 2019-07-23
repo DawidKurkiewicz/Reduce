@@ -1,0 +1,1 @@
+Using reduce function
